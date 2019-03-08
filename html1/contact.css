@@ -1,0 +1,242 @@
+.d20{
+font-family: serif;
+font-size: 20px;
+background-color: transparent;
+color: #5e5e5e;
+font-weight: bold;
+letter-spacing: 1px;
+margin: 0;
+float: left;
+height: 50px;
+text-transform: uppercase;
+padding-top: 5px;
+padding-right: 15px;
+padding-bottom: 15px;
+padding-left: 50px;
+line-height: 20px;
+height: 65vh;
+
+
+}
+
+
+.cont2{
+
+font-size: 20px;
+padding-left: 782px;
+margin-bottom:30px;
+
+}
+
+
+h3{
+
+color: #666;
+font-size: 12;
+letter-spacing: 0px;
+font-family:,serif;
+font-style: normal;
+margin-left: 40px; 
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 26px;
+}
+
+ul {
+font-size: 17px;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+color:#777
+margin-top: 20px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 9px 30px;
+  text-decoration: none;
+  margin-top: -7px;
+}
+
+li  {
+color:#bfba55;
+
+}
+
+li {
+  color:#bfba55;
+  background-color:transparent;
+}
+
+.contact{
+background-image: url(contact-bg.jpg);  
+width: 33%;
+height: 140px;
+padding: 240px 515px;
+border-bottom: 100px solid white
+background-color:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+padding-top: 130px;
+padding-bottom: 100px;
+border-bottom:70px solid white;
+color:white;
+font-weight: bold;
+font-size:30px;
+top: 0;
+left: 0;
+
+}
+
+h2{
+
+
+	padding-bottom: 6px;
+	font-size: 37px;
+	font-family: 'Merriweather',serif;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    margin-left: 162px;
+}
+
+p{
+
+	font-size: 20px;
+	font-family: 'Lora',serif;
+    font-style: normal;
+    font-weight: 300;
+    margin-left: 114px;
+    color:#777;
+}
+
+.name1{
+width: 20%;
+height: 37px;
+margin-left: 124px;
+
+}
+.email{
+width: 20%;
+height: 37px;
+margin-left: 124px;
+float: left;
+
+}
+.subject{
+width: 20%;
+height: 37px;
+margin-left: 124px;
+float: left;  
+}
+.message{
+width: 80%;
+height: 120px;
+margin-left: 124px;
+float: left;
+  }
+
+.send{
+	border-radius: 100px;
+	border: 1px solid #c8c7c0;;
+	width: 117px;
+	height: 29px;
+	background-color: #bfba55;
+	padding-left: 71px;
+	padding-top: 23px;
+	margin-top: 145px;
+	margin-left: 141px;
+	margin-bottom: 45px;
+	
+}
+.send1 {
+	text-decoration-line: none;
+	color: white;
+	font-weight: bold;
+	letter-spacing: 1px;
+    font-family: 'Lora',serif;
+    font-style: normal;
+
+}
+.send:hover {
+	background: black;
+	border-color: transparent;
+	color: #fff;
+text-decoration-line: none ;
+  }
+
+  .first{
+  background-color: black;
+  height: 600px;
+}
+
+.talk {
+  color: white;
+  width:460px;
+  float: left;
+  padding-left: 70px;
+  padding-top: 70px;
+}
+
+ .nstudio {
+  color: white;
+  width:460px;
+  float: left;
+  padding-left: 180px;
+  padding-top: 70px;
+}
+
+
+}
+.studio {
+  font-size: 30px;
+  font-family: 'Merriweather',serif;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+.word{
+  color: #777;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0.2px;
+}
+.smaylik {
+  border-radius: 100%;
+  width: 500px;
+  height: 400px;
+  color: white;
+  display: inline-block;
+  padding-left: 38%;
+  padding-top: 60px;
+
+}
+.xett{
+  display: block;
+  padding-left: 98px;
+  padding-top: 344px;
+  width: 84%;
+}
+.smaylik a {
+  width: 33px;
+  height: 29px;
+  text-decoration-line: none;
+  color:#292929;
+  border: 2px solid #292929;
+  border-radius: 100%;
+  padding-left: 20px;
+  padding-top: 19px;
+  margin: 10px;
+}
+.smaylik a:hover{
+  color: #bfba55;
+  border-color: #bfba55;
+}
